@@ -65,7 +65,13 @@
         "name": "Tiktok",
         "description": "mcuan_",
         "icon": "/assets/images/tiktok.png",
-        "url":""
+        "url":"https://www.tiktok.com/@mcuan_?_t=8psoLhICYek&_r=1"
+      },
+      {
+        "name": "Facebook",
+        "description": "CUAN",
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/people/CUAN/61562384639281/"
       }
     ]
   },
